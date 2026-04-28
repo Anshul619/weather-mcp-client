@@ -22,3 +22,6 @@ pip install -r requirements.txt
 ````shell
 python main.py
 ````
+
+# Others
+- [A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools](https://github.com/mark3labs/mcp-go)
